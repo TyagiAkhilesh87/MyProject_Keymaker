@@ -17,9 +17,8 @@ Java GUI Swing based Making Password More Secure.
 
 
 #### Important File That Are Needed to use this Application #### 
-
-   1 -Install Java Run Time Enviorment (This Give Platform Independency)
-   2 - Also SEt Java Environment Variable 
+   1 - Install Java Run Time Enviorment (This Give Platform Independency).
+   2 - Also SEt Java Environment Variable.
    
    ##### MADE THIS PROJECT FOR #####
         

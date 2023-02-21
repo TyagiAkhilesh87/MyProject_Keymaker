@@ -1,5 +1,13 @@
 # MyProject_Keymaker
 
+#### METHOD TO USE THIS APPLICATION ######
+        Clone this Repo 
+        Then Click on 1 -> PasswordMakerSetup.exe 
+                      2 -> Enter Length of Character 
+                      3 -> Click on GenerateKey
+                      4 ->  this Output Will Be Displayed below Button 
+                  -- Kindly Save The Password Which have Showed on the Message Because its Very High Probability it Never occur Again -- 
+    
 Java GUI Swing based Making Password More Secure. 
 
 #####  TECH STACK ######
